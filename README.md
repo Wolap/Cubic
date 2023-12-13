@@ -2,4 +2,4 @@
 
 ## Description 
 
-Rendu du cours de css layouting 
+Petit exercice du cours de css layouting 
